@@ -1,1 +1,235 @@
-{"name":"Armoured Rat","traits":"","tags":["rat"],"level":1,"specials":[{"id":"_2oaqwjcwpv","name":"Filth Fever","traits":"disease","range":"","actions":"none","type":"offense","description":"The sickened and unconscious conditions from filth fever don’t improve on their own until the disease is cured.; Saving Throw DC 14 Fortitude; Stage 1 carrier with no ill effect (1d4 hours), Stage 2 sickened 1 (1 day), Stage 3 sickened 1 and slowed 1 (1 day), Stage 4 unconscious (1 day), Stage 5 dead"}],"morespells":[],"alignment":"n","size":"small","type":"animal","adjust":0,"description":"A giant rat that is suited in carefully crafted armour.","items":"","spellattack":{"value":"","benchmark":"moderate","note":""},"spelldc":{"value":"","benchmark":"moderate","note":""},"savenote":"","creature":"","speed":"20ft, 10ft climb","imgurl":"","spelltype":"","focuspoints":0,"cantriplevel":"","ritualtype":"","rituals":"","spells":["","","","","","","","","","",""],"constant":"","minprof":{"value":"","benchmark":"moderate","note":""},"strength":{"value":1,"benchmark":"low","note":""},"dexterity":{"value":3,"benchmark":"moderate","note":""},"constitution":{"value":3,"benchmark":"moderate","note":""},"intelligence":{"value":-4,"benchmark":"terrible","note":""},"wisdom":{"value":1,"benchmark":"low","note":""},"charisma":{"value":-4,"benchmark":"terrible","note":""},"perception":{"value":6,"benchmark":"moderate","note":"low-light vision, scent (imprecise) 30 feet"},"acrobatics":{"value":4,"benchmark":"moderate","note":""},"arcana":{"value":"","benchmark":"moderate","note":""},"athletics":{"value":2,"benchmark":"moderate","note":""},"crafting":{"value":"","benchmark":"moderate","note":""},"deception":{"value":"","benchmark":"moderate","note":""},"diplomacy":{"value":"","benchmark":"moderate","note":""},"intimidation":{"value":"","benchmark":"moderate","note":""},"medicine":{"value":"","benchmark":"moderate","note":""},"nature":{"value":"","benchmark":"moderate","note":""},"occultism":{"value":"","benchmark":"moderate","note":""},"performance":{"value":"","benchmark":"moderate","note":""},"religion":{"value":"","benchmark":"moderate","note":""},"society":{"value":"","benchmark":"moderate","note":""},"stealth":{"value":4,"benchmark":"moderate","note":""},"survival":{"value":"","benchmark":"moderate","note":""},"thievery":{"value":"","benchmark":"moderate","note":""},"lore":{"value":"","benchmark":"moderate","note":"","name":"lore"},"lorealt":{"value":"","benchmark":"moderate","note":"","name":"lore"},"ac":{"value":17,"benchmark":"moderate","note":"Armour +2"},"hp":{"value":21,"benchmark":"moderate","note":""},"fortitude":{"value":6,"benchmark":"moderate","note":""},"reflex":{"value":7,"benchmark":"moderate","note":""},"will":{"value":3,"benchmark":"moderate","note":""},"resistance":{"value":"","benchmark":"moderate","note":""},"weakness":{"value":"","benchmark":"moderate","note":""},"immunity":{"value":"","benchmark":"moderate","note":""},"roadmap":"","info":"","strikes":[{"id":"_aadmi0h26zc","name":"Jaws","traits":"agile, finesse","attack":7,"damage":"1d6+2 piercing plus Flith Fever","type":"Melee"}]}
+{
+	"name": "Armoured Rat",
+	"traits": "Animal",
+	"level": 1,
+	"specials": [{
+		"id": "_2oaqwjcwpv",
+		"name": "Filth Fever",
+		"traits": "disease",
+		"range": "",
+		"actions": "none",
+		"type": "offense",
+		"description": "The sickened and unconscious conditions from filth fever don’t improve on their own until the disease is cured.; Saving Throw DC 14 Fortitude; Stage 1 carrier with no ill effect (1d4 hours), Stage 2 sickened 1 (1 day), Stage 3 sickened 1 and slowed 1 (1 day), Stage 4 unconscious (1 day), Stage 5 dead"
+	}],
+	"morespells": [],
+	"alignment": "n",
+	"size": "small",
+	"type": "animal",
+	"adjust": 0,
+	"description": "A giant rat that is suited in carefully crafted armour.",
+	"items": "",
+	"spellattack": {
+		"value": "",
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"spelldc": {
+		"value": "",
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"savenote": "",
+	"creature": "",
+	"speed": "20ft, 10ft climb",
+	"imgurl": "",
+	"spelltype": "",
+	"focuspoints": 0,
+	"cantriplevel": "",
+	"ritualtype": "",
+	"rituals": "",
+	"spells": ["",
+	"",
+	"",
+	"",
+	"",
+	"",
+	"",
+	"",
+	"",
+	"",
+	""],
+	"constant": "",
+	"minprof": {
+		"value": "",
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"strength": {
+		"value": 1,
+		"benchmark": "low",
+		"note": ""
+	},
+	"dexterity": {
+		"value": 3,
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"constitution": {
+		"value": 3,
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"intelligence": {
+		"value": -4,
+		"benchmark": "terrible",
+		"note": ""
+	},
+	"wisdom": {
+		"value": 1,
+		"benchmark": "low",
+		"note": ""
+	},
+	"charisma": {
+		"value": -4,
+		"benchmark": "terrible",
+		"note": ""
+	},
+	"perception": {
+		"value": 6,
+		"benchmark": "moderate",
+		"note": "low-light vision, scent (imprecise) 30 feet"
+	},
+	"acrobatics": {
+		"value": 4,
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"arcana": {
+		"value": "",
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"athletics": {
+		"value": 2,
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"crafting": {
+		"value": "",
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"deception": {
+		"value": "",
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"diplomacy": {
+		"value": "",
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"intimidation": {
+		"value": "",
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"medicine": {
+		"value": "",
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"nature": {
+		"value": "",
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"occultism": {
+		"value": "",
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"performance": {
+		"value": "",
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"religion": {
+		"value": "",
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"society": {
+		"value": "",
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"stealth": {
+		"value": 4,
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"survival": {
+		"value": "",
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"thievery": {
+		"value": "",
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"lore": {
+		"value": "",
+		"benchmark": "moderate",
+		"note": "",
+		"name": "lore"
+	},
+	"lorealt": {
+		"value": "",
+		"benchmark": "moderate",
+		"note": "",
+		"name": "lore"
+	},
+	"ac": {
+		"value": 17,
+		"benchmark": "moderate",
+		"note": "Armour +2"
+	},
+	"hp": {
+		"value": 21,
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"fortitude": {
+		"value": 6,
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"reflex": {
+		"value": 7,
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"will": {
+		"value": 3,
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"resistance": {
+		"value": "",
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"weakness": {
+		"value": "",
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"immunity": {
+		"value": "",
+		"benchmark": "moderate",
+		"note": ""
+	},
+	"roadmap": "",
+	"info": "",
+	"strikes": [{
+		"id": "_aadmi0h26zc",
+		"name": "Jaws",
+		"traits": "agile, finesse",
+		"attack": 7,
+		"damage": "1d6+2 piercing plus Flith Fever",
+		"type": "Melee"
+	}],
+	"tags": []
+}
