@@ -3,7 +3,17 @@
  "tags": ["goblin"],
  "level":1,
  "specials": [  
-          {
+          [
+        {
+            "id": "_121kzh1ark1",
+            "name": "Shield Wall",
+            "traits": "",
+            "range": "",
+            "actions": "one",
+            "type": "defense",
+            "description": "The troop maneuvers it's shields to mitigate area damage. The troops weakness to area damage and splash damage decreases to 5 and 0 respectively."
+        },
+        {
             "id": "_96d3gx2ggzc",
             "name": "Frightful Presence",
             "traits": "aura, emotion, fear, mental",
@@ -49,7 +59,7 @@
    "",
    "",
    "",
-   "Endure",
+   "Endure, Mud Pit",
    "Daze, Light, Mage Hand"
  ],
  "constant":"",
