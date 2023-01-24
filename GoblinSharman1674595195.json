@@ -8,8 +8,8 @@
   "name":"Raise The War Banner",
   "traits":"concentrate",
   "range":"",
-  "actions":"one",
-  "type":"Offensive",
+  "actions":"two",
+  "type":"offense",
   "description":"The Goblin Sharman raises their war banner up inspiring nearby goblins Effect Goblins within 30 feet gain a +1 status bonus to Attack rolls and saves against fear effects."
  }
  ],
