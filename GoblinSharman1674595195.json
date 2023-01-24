@@ -3,7 +3,6 @@
  "tags": ["goblin"],
  "level":1,
  "specials": [  
-          [
         {
             "id": "_121kzh1ark1",
             "name": "Shield Wall",
@@ -59,7 +58,7 @@
    "",
    "",
    "",
-   "Endure, Mud Pit",
+   "Endure, Tanglefoot",
    "Daze, Light, Mage Hand"
  ],
  "constant":"",
