@@ -11,16 +11,7 @@
             "actions": "none",
             "type": "general",
             "description": "300 feet"
-        },
-  {
-      "id": "_1tmmsi8sgo",
-      "name": "Raise The War Banner",
-      "traits": "aura",
-      "range": "",
-      "actions": "one",
-      "type": "general",
-      "description": "The Goblin Sharman raises their war banner up inspiring nearby goblins Effect Goblins within 30 feet gain a +1 status bonus to Attack rolls and saves against fear effects."
-   }
+        }
  ],
  "morespells":[],
  "alignment":"ce",
@@ -58,7 +49,7 @@
    "",
    "",
    "",
-   "",
+   "Endure",
    "Daze, Light, Mage Hand"
  ],
  "constant":"",
