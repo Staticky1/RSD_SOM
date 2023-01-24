@@ -11,7 +11,16 @@
   "actions":"two",
   "type":"offense",
   "description":"The Goblin Sharman raises their war banner up inspiring nearby goblins Effect Goblins within 30 feet gain a +1 status bonus to Attack rolls and saves against fear effects."
- }
+ },
+  {
+   "id": "_26cqf8vwt3i",
+   "name": "Goblin Scuttle",
+   "traits": "",
+   "range": "",
+   "actions": "reaction",
+   "type": "defense",
+   "description" :"Trigger A goblin ally ends a move action adjacent to the warrior. Effect The goblin warrior Steps."
+  }
  ],
  "morespells":[],
  "alignment":"ce",
