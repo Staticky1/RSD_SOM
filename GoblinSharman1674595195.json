@@ -1,8 +1,8 @@
 {"name":"Goblin Sharman",
- "traits":"goblin",
- "tags":["goblin"],
+ "traits": "goblin",
+ "tags": ["goblin"],
  "level":1,
- "specials":[
+ "specials": [
    {
       "id": "_1tmmsi8sgo",
       "name": "Raise The War Banner",
@@ -31,7 +31,7 @@
  "cantriplevel":1,
  "ritualtype":"",
  "rituals":"",
- "spells":[
+ "spells": [
    "",
    "",
    "",
@@ -45,4 +45,4 @@
    "Light, Daze, Mage Hand"
  ],
  "constant":"",
- "minprof":{"value":"","benchmark":"moderate","note":""},"strength":{"value":3,"benchmark":"moderate","note":""},"dexterity":{"value":1,"benchmark":"low","note":""},"constitution":{"value":3,"benchmark":"moderate","note":""},"intelligence":{"value":0,"benchmark":"low","note":""},"wisdom":{"value":1,"benchmark":"low","note":""},"charisma":{"value":5,"benchmark":"extreme","note":""},"perception":{"value":7,"benchmark":"moderate","note":"Darkvision"},"acrobatics":{"value":4,"benchmark":"low","note":""},"arcana":{"value":6,"benchmark":"moderate","note":""},"athletics":{"value":"","benchmark":"moderate","note":""},"crafting":{"value":"","benchmark":"moderate","note":""},"deception":{"value":"","benchmark":"moderate","note":""},"diplomacy":{"value":"","benchmark":"moderate","note":""},"intimidation":{"value":"","benchmark":"moderate","note":""},"medicine":{"value":"","benchmark":"moderate","note":""},"nature":{"value":6,"benchmark":"moderate","note":""},"occultism":{"value":"","benchmark":"moderate","note":""},"performance":{"value":"","benchmark":"moderate","note":""},"religion":{"value":"","benchmark":"moderate","note":""},"society":{"value":"","benchmark":"moderate","note":""},"stealth":{"value":4,"benchmark":"low","note":""},"survival":{"value":"","benchmark":"moderate","note":""},"thievery":{"value":"","benchmark":"moderate","note":""},"lore":{"value":"","benchmark":"moderate","note":"","name":"lore"},"lorealt":{"value":"","benchmark":"moderate","note":"","name":"lore"},"ac":{"value":15,"benchmark":"moderate","note":""},"hp":{"value":15,"benchmark":"low","note":""},"fortitude":{"value":4,"benchmark":"low","note":""},"reflex":{"value":7,"benchmark":"moderate","note":""},"will":{"value":10,"benchmark":"high","note":""},"resistance":{"value":"","benchmark":"moderate","note":""},"weakness":{"value":"","benchmark":"moderate","note":""},"immunity":{"value":"","benchmark":"moderate","note":""},"roadmap":"spellcaster (cha)","info":"","strikes":[{"id":"_2ak5ysnthn7","name":"Strike","traits":"","attack":7,"damage":"1d4+2 bludgeoning","type":"Melee"}],"languages":"Goblin"}
+ "minprof":{"value":"","benchmark":"moderate","note":""},"strength":{"value":3,"benchmark":"moderate","note":""},"dexterity":{"value":1,"benchmark":"low","note":""},"constitution":{"value":3,"benchmark":"moderate","note":""},"intelligence":{"value":0,"benchmark":"low","note":""},"wisdom":{"value":1,"benchmark":"low","note":""},"charisma":{"value":5,"benchmark":"extreme","note":""},"perception":{"value":7,"benchmark":"moderate","note":"darkvision"},"acrobatics":{"value":4,"benchmark":"low","note":""},"arcana":{"value":6,"benchmark":"moderate","note":""},"athletics":{"value":"","benchmark":"moderate","note":""},"crafting":{"value":"","benchmark":"moderate","note":""},"deception":{"value":"","benchmark":"moderate","note":""},"diplomacy":{"value":"","benchmark":"moderate","note":""},"intimidation":{"value":"","benchmark":"moderate","note":""},"medicine":{"value":"","benchmark":"moderate","note":""},"nature":{"value":6,"benchmark":"moderate","note":""},"occultism":{"value":"","benchmark":"moderate","note":""},"performance":{"value":"","benchmark":"moderate","note":""},"religion":{"value":"","benchmark":"moderate","note":""},"society":{"value":"","benchmark":"moderate","note":""},"stealth":{"value":4,"benchmark":"low","note":""},"survival":{"value":"","benchmark":"moderate","note":""},"thievery":{"value":"","benchmark":"moderate","note":""},"lore":{"value":"","benchmark":"moderate","note":"","name":"lore"},"lorealt":{"value":"","benchmark":"moderate","note":"","name":"lore"},"ac":{"value":15,"benchmark":"moderate","note":""},"hp":{"value":15,"benchmark":"low","note":""},"fortitude":{"value":4,"benchmark":"low","note":""},"reflex":{"value":7,"benchmark":"moderate","note":""},"will":{"value":10,"benchmark":"high","note":""},"resistance":{"value":"","benchmark":"moderate","note":""},"weakness":{"value":"","benchmark":"moderate","note":""},"immunity":{"value":"","benchmark":"moderate","note":""},"roadmap":"spellcaster (cha)","info":"","strikes":[{"id":"_2ak5ysnthn7","name":"Strike","traits":"","attack":7,"damage":"1d4+2 bludgeoning","type":"Melee"}],"languages":"Goblin"}
